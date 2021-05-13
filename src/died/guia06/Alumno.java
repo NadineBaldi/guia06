@@ -6,6 +6,7 @@ import java.util.List;
 public class Alumno {
 
 	private String nombre;
+	private String apellido;
 	private Integer nroLibreta;
 	private List<Curso> cursando;
 	private List<Curso> aprobados;
